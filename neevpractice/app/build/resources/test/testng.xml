@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.neev.practice.TestListener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Neev Practice">
+    <classes>
+        <class name="com.neev.practice.training.LoginTest">
+            <methods>
+                <include name="loginTestCase"/>
+                <include name="loginTestCase1"/>
+            </methods>
+        </class>
+        <class name="com.neev.practice.training.NewTest">
+        <methods>
+            <include name="newTestCase"/>
+            <include name="newTestCase1"/>
+        </methods>
+    </class>
+    </classes>
+</test>
+</suite>

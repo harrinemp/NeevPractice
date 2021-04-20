@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-15T15:03:07 IST" name="All Test Suite" finished-at="2021-04-15T15:03:07 IST" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2021-04-15T15:03:07 IST" name="Neev Practice" finished-at="2021-04-15T15:03:07 IST" duration-ms="36">
+      <class name="com.neev.practice.training.LoginTest">
+        <test-method is-config="true" signature="beforeLoginTest()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="beforeLoginTest" finished-at="2021-04-15T15:03:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLoginTest -->
+        <test-method is-config="true" signature="beforeLoginClass()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="beforeLoginClass" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLoginClass -->
+        <test-method is-config="true" signature="beforeLoginMethod()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="beforeLoginMethod" finished-at="2021-04-15T15:03:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLoginMethod -->
+        <test-method signature="loginTestCase()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="loginTestCase" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method is-config="true" signature="afterLoginMethod()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="afterLoginMethod" finished-at="2021-04-15T15:03:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLoginMethod -->
+        <test-method is-config="true" signature="beforeLoginMethod()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="beforeLoginMethod" finished-at="2021-04-15T15:03:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLoginMethod -->
+        <test-method signature="loginTestCase1()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="loginTestCase1" finished-at="2021-04-15T15:03:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase1 -->
+        <test-method is-config="true" signature="afterLoginMethod()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="afterLoginMethod" finished-at="2021-04-15T15:03:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLoginMethod -->
+        <test-method is-config="true" signature="afterLoginClass()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="afterLoginClass" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLoginClass -->
+        <test-method is-config="true" signature="afterLoginTest()[pri:0, instance:com.neev.practice.training.LoginTest@aecb35a]" started-at="2021-04-15T15:03:07 IST" name="afterLoginTest" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLoginTest -->
+      </class> <!-- com.neev.practice.training.LoginTest -->
+      <class name="com.neev.practice.training.NewTest">
+        <test-method is-config="true" signature="beforeTestSuite()[pri:0, instance:com.neev.practice.training.NewTest@7dc222ae]" started-at="2021-04-15T15:03:07 IST" name="beforeTestSuite" finished-at="2021-04-15T15:03:07 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.neev.practice.training.NewTest@7dc222ae]" started-at="2021-04-15T15:03:07 IST" name="beforeTest" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeTestClass()[pri:0, instance:com.neev.practice.training.NewTest@7dc222ae]" started-at="2021-04-15T15:03:07 IST" name="beforeTestClass" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestClass -->
+        <test-method signature="newTestCase()[pri:0, instance:com.neev.practice.training.NewTest@7dc222ae]" started-at="2021-04-15T15:03:07 IST" name="newTestCase" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTestCase -->
+        <test-method signature="newTestCase1()[pri:0, instance:com.neev.practice.training.NewTest@7dc222ae]" started-at="2021-04-15T15:03:07 IST" name="newTestCase1" finished-at="2021-04-15T15:03:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTestCase1 -->
+      </class> <!-- com.neev.practice.training.NewTest -->
+    </test> <!-- Neev Practice -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
